@@ -1,6 +1,4 @@
-d : stands for "change directory".
 
-cd .. : Takes you to the previous directory.
 
 cd / : The / symbol represents the root directory, which is the topmost directory in the hierarchy of a filesystem.
 
